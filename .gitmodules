@@ -1,0 +1,9 @@
+[submodule "libutility"]
+	path = libutility
+	url = git@github.com:chunan/libutility.git
+[submodule "libfeature"]
+	path = libfeature
+	url = git@github.com:chunan/libfeature.git
+[submodule "libsegtree"]
+	path = libsegtree
+	url = git@github.com:chunan/libsegtree.git

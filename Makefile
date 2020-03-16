@@ -1,7 +1,7 @@
 CC = g++
 CXX = g++
 
-CXXFLAGS = -Wall -Werror -ansi -pedantic -I include -I ../libutility/include -I ../libsegtree/include -I ../libfeature/include
+CXXFLAGS = -Wall -Werror -ansi -pedantic -I include -I ./libutility/include -I ./libsegtree/include -I ./libfeature/include
 
 MACHINE = $(shell uname -m)
 
