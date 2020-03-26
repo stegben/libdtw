@@ -1,0 +1,7 @@
+include include/*.h
+
+include lib/libfeature/include/*.h
+include lib/libutility/include/*.h
+include lib/libsegtree/include/*.h
+
+include src/*.cpp
